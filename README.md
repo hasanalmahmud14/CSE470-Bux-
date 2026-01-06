@@ -1,4 +1,4 @@
-### BUX 2.0
+### BUX 
 
 This project implements an **Online e-learning platform**, allowing students to register, log in, select course and securely make payments for the courses they wish to enroll in. The system provides an intuitive and seamless flow for course selection, payment processing, and transaction confirmation, ensuring a smooth experience for students.
 
@@ -19,10 +19,7 @@ This project implements an **Online e-learning platform**, allowing students to 
 - **Session Management**: For handling user sessions and ensuring secure access.
 
 #### Installation:
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/PialGhosh2233/BUX-2.0.git
-   ```
+1. Clone this repository. 
 2. Configure the database by importing the SQL schema from `dbConnection.php`.
 3. Set up a local server (e.g., XAMPP or WAMP) and place the project folder in the `htdocs` directory.
 4. Visit `localhost/yourproject` in your browser to start using the system.
